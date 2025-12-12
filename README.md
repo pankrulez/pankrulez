@@ -75,8 +75,6 @@ I also bring prior experience in **PHP web development and Java programming**, g
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankrulez&layout=compact)
 
-https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=$.public_repos&url=https://api.github.com/users/pankrulez
-
 ---
 
 ## 🏆 Kaggle Activity

@@ -1,98 +1,96 @@
-# 👋 Hi, I'm Pankaj  
-### 🎯 Aspiring Data Scientist | Python • SQL • Machine Learning • Deep Learning  
+# 👋 Hey there! I'm Pankaj Kapri
 
-📍 Focused on building real-world, production-grade **data science & machine learning projects**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Builder;Generative+AI+Enthusiast;Lifelong+Learner" alt="Typing Animation" />
+</div>
 
----
-
-## 🚀 About Me
-
-I am an aspiring **Data Scientist** with a strong foundation in **Python and SQL**, specializing in **data analysis, machine learning, and predictive modeling**. I work extensively with:
-
-- **pandas & NumPy** for data manipulation  
-- **scikit-learn** for ML pipelines and models  
-- **TensorFlow** for deep learning applications  
-
-I also bring prior experience in **PHP web development and Java programming**, giving me strong backend logic, clean coding habits, and software engineering discipline. My focus is on building **end-to-end ML solutions using real-world datasets**.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pankrulez&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 The Journey So Far
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+My path in tech has been a fun and evolving adventure! For years, I built strong foundations in backend logic and problem-solving as a Java trainer and PHP web developer, followed by a deep dive into system troubleshooting as a senior technical support engineer. 
+
+Today, I am fully focused on **Data Science, Machine Learning, and Generative AI**. Because of my developer and support background, I don't just build models in isolated Jupyter notebooks—I care about clean architecture, handling real-world messy data, and deploying end-to-end applications that actually work in production. 
 
 ---
 
-### 📊 Data Science & ML
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+## 💻 Projects I'm Proud Of
+
+*(Click to expand the details of my recent builds!)*
+
+<details>
+  <summary><b>🕵️‍♂️ Fraud Detection Paysphere</b></summary>
+  
+  > An end-to-end fraud detection application designed to handle highly imbalanced datasets.
+  > *   **The Challenge:** Real-world fraud data is inherently skewed.
+  > *   **The Solution:** I engineered a robust pipeline using **XGBoost** and deployed it via **Streamlit**. The model was trained on 50,000 transaction records and successfully navigated a realistic ~10% fraud rate, maximizing precision without sacrificing recall.
+</details>
+
+<details>
+  <summary><b>⚖️ Legal Eagle (RAG Query Engine)</b></summary>
+  
+  > An intelligent document retrieval system for complex legal texts.
+  > *   **The Tech:** Built using **LangChain** and **HuggingFace embeddings**.
+  > *   **The Solution:** Implemented a Retrieval-Augmented Generation (RAG) architecture that allows users to seamlessly query, retrieve, and analyze dense legal documentation with high accuracy.
+</details>
+
+<details>
+  <summary><b>📈 FinSight Pro</b></summary>
+  
+  > An automated financial analysis platform and interactive dashboard.
+  > *   **The Tech:** **Streamlit**, **NewsAPI**, and Python data libraries.
+  > *   **The Solution:** Blends traditional technical stock analysis with live news sentiment analysis, giving a holistic view of market movements in one sleek web app.
+</details>
+
+<details>
+  <summary><b>⚾ "Moneyball" Scouting & Churn Analytics</b></summary>
+  
+  > Predictive pipelines solving specific business and sports analytics problems.
+  > *   **The Solution:** Utilized machine learning classification and regression techniques to predict customer churn, as well as applying advanced data visualizations (Seaborn, Matplotlib, PowerBI) for sports scouting analysis.
+</details>
 
 ---
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## 🛠️ My Digital Toolbox
+
+I love experimenting with new tech, but here is my daily driver stack:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Data & ML** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Deep Learning & Gen AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?style=flat-square&logo=huggingface&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square) |
+| **Big Data & Web** | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Dev Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) |
+
+> 💡 **Current Obsession:** I'm currently a massive fan of building and experimenting with cutting-edge open-source models, specifically utilizing `meta-llama/llama-4-scout-17b-16e-instruct` for complex reasoning and development tasks!
 
 ---
 
-### 📈 Visualization & Tools
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankrulez&show_icons=true&rank_icon=github&theme=radical" alt="Pankaj's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankrulez&theme=radical" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankrulez&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+</div>
 
 ---
 
-## 📂 Project Focus Areas
+## 📫 Let's Connect!
 
-- 📊 Exploratory Data Analysis (EDA)
-- 🧹 Feature Engineering & Data Cleaning
-- 🤖 Machine Learning Models
-- 📈 Predictive Analytics
-- 🧠 Deep Learning
-- 🛠️ End-to-End ML Pipelines
+Whether you want to discuss machine learning, collaborate on an open-source project, or just chat about cool data visualizations, my inbox is open!
 
----
+*   📊 **Kaggle:** [pankajkapri](https://www.kaggle.com/pankajkapri)  
+*   💼 **LinkedIn:** [Pankaj Kapri](https://www.linkedin.com/in/pankajkapri)
 
-## 🎯 Current Focus
-
-- Building **production-quality ML models**
-- Kaggle datasets, notebooks, and competitions  
-- Model evaluation & optimization  
-- Strengthening **statistics & business problem solving**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankrulez&show_icons=true&rank_icon=github&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankrulez&layout=compact)
-
----
-
-## 🏆 Kaggle Activity
-
-- Active in **datasets, notebooks & competitions**
-- Focus on **real-world ML problem solving**
-
-Kaggle: [https://kaggle.com/pankajkapri](https://www.kaggle.com/code/pankajkapri)  
-
----
-
-## 📫 Connect With Me
-
-- 🌐 GitHub: [https://github.com/pankrulez](https://github.com/pankrulez/pankrulez)  
-- 📊 Kaggle: [https://kaggle.com/pankajkapri](https://www.kaggle.com/code/pankajkapri) 
-- 💼 LinkedIn: [https://kaggle.com/pankajkapri](https://www.linkedin.com/in/pankajkapri)
-
----
-
-⭐ Open to **internships, collaborations, and ML research projects**
-
+⭐ *Constantly building, optimizing, and learning.*
